@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ash-js
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi 👋  I’m Ashour
+- 🌍  I'm based in Sydney, Australia
+- 🖥️  See my portfolio at [www.ash-dev.io](https://ash-dev.io/)
+- 🧠  Currently learning Next.js
+- 🤝  I'm open to collaborating on interesting projects as a developer
 
 <!---
 ash-js/ash-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
