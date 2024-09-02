@@ -1,16 +1,15 @@
 - Hi 👋  I’m Ashour
 - 🌍  I'm based in Sydney, Australia
-- 🖥️  See my portfolio at [portfolio](https://ash-dev.io/)
-- 🧠  Currently learning Next.js
-- 🤝  I'm open to collaborating on interesting projects as a developer
+- 🖥️  See my portfolio at [portfolio](https://ashour-dev.me/)
+- 🤝  I'm open to collaborating on interesting projects as a data analyst
 
 Skills
-- HTML5
-- CSS3
-- JavaScript
-- React
-- TailwindCSS
+- SQL
+- Excel
+- Python
+- Tableau
+- Power BI
 
 Social
-- [LinedIn](https://www.linkedin.com/in/ashour-abdal-666338273/)
+- [LinedIn](https://www.linkedin.com/in/ashour-abdal)
   
