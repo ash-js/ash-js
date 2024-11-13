@@ -1,6 +1,5 @@
 - Hi 👋  I’m Ashour
 - 🌍  I'm based in Sydney, Australia
-- 🖥️  See my portfolio at [portfolio](https://ashour-dev.me/)
 - 🤝  I'm open to collaborating on interesting projects as a full stack developer
 
 Skills
