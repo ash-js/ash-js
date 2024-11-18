@@ -9,6 +9,7 @@ Skills
 - C#
 - .Net
 - SQL
+- Python
 
 Social
 - [LinedIn](https://www.linkedin.com/in/ashour-abdal)
