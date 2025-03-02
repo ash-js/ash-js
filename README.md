@@ -12,6 +12,7 @@ Skills
 - PHP
 - REST API
 - SQL
+- C#
 - Python
 - AI
 
