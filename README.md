@@ -1,13 +1,13 @@
 - Hi 👋  I’m Ashour
 - 🌍  I'm based in Sydney, Australia
-- 🤝  I'm open to collaborating on interesting projects as a full stack developer
+- 🤝  I'm open to collaborating on interesting projects as a web developer
 
 Skills
-- Typescript
+- HTML
 - CSS
+- Javascript
 - React
-- C#
-- .Net
+- PHP
 - SQL
 - Python
 
