@@ -4,12 +4,16 @@
 
 Skills
 - HTML
+- XML
 - CSS
 - Javascript
+- Typescript
 - React
 - PHP
+- REST API
 - SQL
 - Python
+- AI
 
 Social
 - [LinedIn](https://www.linkedin.com/in/ashour-abdal)
