@@ -6,6 +6,9 @@ Skills
 - HTML
 - XML
 - CSS
+- Figma
+- Photoshop
+- CMS
 - Javascript
 - Typescript
 - React
