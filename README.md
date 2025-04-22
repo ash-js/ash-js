@@ -6,6 +6,7 @@ Skills
 - HTML
 - XML
 - CSS
+- UI/UX
 - Figma
 - Photoshop
 - CMS
